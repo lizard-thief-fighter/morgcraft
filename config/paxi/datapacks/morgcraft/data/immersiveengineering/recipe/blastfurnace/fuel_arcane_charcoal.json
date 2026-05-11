@@ -1,0 +1,7 @@
+{
+  "type": "immersiveengineering:blast_furnace_fuel",
+  "input": {
+    "item": "malum:arcane_charcoal"
+  },
+  "time": 1200
+}

@@ -1,0 +1,21 @@
+{
+  "desc.immersiveengineering.info.mineral.pitchblende": "Pitchblende",
+  "desc.immersiveengineering.info.mineral.spectral_crevasse": "Spectral Crevasse",
+  "tag.biome.c.is_swamp": "swamps",
+  "block.immersiveengineering.hemp": "Hemp",
+  "config.jade.plugin_immersiveengineering.hemp": "Hemp Crop Growth",
+  "item.immersiveengineering.hemp_fiber": "Hemp Fiber",
+  "item.immersiveengineering.light_bulb": "Lightbulb",
+  "item.immersiveengineering.seed": "Hemp Seeds",
+  "tile.harvesterTrolley.ieCrop.name": "Hemp Harvester Trolley",
+  "desc.immersiveengineering.info.circuit_table.slot.edit": "Place RCB here to edit",
+  "item.immersiveengineering.logic_circuit": "Redstone Circuit Board",
+  "desc.immersiveengineering.info.circuit_table.slot.backplane": "Empty RCB",
+  "item.immersiveengineering.circuit_board": "Empty RCB",
+  "block.immersiveengineering.fluid_pipe": "Iron Fluid Pipe",
+  "block.immersiveengineering.fluid_placer": "Iron Fluid Outlet",
+  "block.immersiveengineering.fluid_sorter": "Iron Fluid Router",
+  "block.immersiveengineering.fluid_pump": "Electric Fluid Pump",
+  "block.immersiveengineering.tank": "Iron Fluid Tank",
+  "item.immersiveengineering.graphite_electrode": "Arc Furnace Electrode"
+}

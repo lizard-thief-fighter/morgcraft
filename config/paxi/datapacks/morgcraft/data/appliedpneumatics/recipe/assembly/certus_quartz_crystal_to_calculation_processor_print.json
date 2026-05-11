@@ -1,0 +1,12 @@
+{
+  "type": "pneumaticcraft:assembly_laser",
+  "input": {
+    "count": 1,
+    "item": "create:andesite_alloy"
+  },
+  "program": "laser",
+  "result": {
+    "count": 1,
+    "id": "appliedcreate:stress_circuit_board"
+  }
+}

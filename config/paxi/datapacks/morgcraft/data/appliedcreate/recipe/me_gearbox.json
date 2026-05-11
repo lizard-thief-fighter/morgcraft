@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "accept_mirrored": true,
+    "pattern": [
+        "AGA",
+        "CSC",
+        "AGA"
+    ],
+    "key": {
+        "A": { "tag": "c:ingots/electrum" },
+        "G": { "item": "create:cogwheel" },
+        "C": { "item": "ae2:fluix_glass_cable" },
+        "S": { "item": "create:shaft" }
+    },
+    "result": {
+        "id": "appliedcreate:me_gearbox",
+        "count": 1
+    }
+}

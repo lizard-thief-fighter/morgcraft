@@ -1,0 +1,33 @@
+{
+  "type": "pneumaticcraft:crafting_shaped_pressurizable",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "pneumaticcraft:air_canister"
+    },
+    "B": {
+      "item": "pneumaticcraft:cannon_barrel"
+    },
+    "C": {
+      "tag": "pneumaticcraft:chests"
+    },
+    "G": {
+      "tag": "c:ingots/constantan"
+    },
+    "I": {
+      "tag": "c:ingots/steel"
+    },
+    "L": {
+      "item": "minecraft:lever"
+    }
+  },
+  "pattern": [
+    "A  ",
+    "CIB",
+    "GL "
+  ],
+  "result": {
+    "count": 1,
+    "id": "pneumaticcraft:minigun"
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "levels": {
+
+    "1": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "immersiveengineering:wirecutter",
+            "count": 1
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 2
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 2
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:wirecoil_copper",
+              "count": 8
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:redstone_link",
+            "count": 2
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "2": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 3
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:wirecoil_electrum",
+              "count": 8
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:component_electronic",
+            "count": 3
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create_new_age:generator_coil",
+            "count": 1
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 2
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:connector_lv",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:connector_lv_relay",
+            "count": 16
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "3": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 4
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:wirecoil_steel",
+              "count": 8
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 4
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:capacitor_lv",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "pneumaticcraft:pcb_blueprint",
+            "count": 1
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 4
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:connector_mv",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:connector_mv_relay",
+            "count": 16
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "4": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "immersiveengineering:component_electronic_adv",
+            "count": 1
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 3
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:mechanical_crafter",
+            "count": 3
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:connector_hv",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:connector_hv_relay",
+            "count": 16
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+                {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 6
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:capacitor_mv",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "5": {
+      "take": {
+        "type": "constant",
+        "value": 1
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "immersiveengineering:generator",
+            "count": 4
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 10
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 32
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:robot_wolf",
+              "count": 1
+            }
+          ]
+        },
+
+                {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:capacitor_hv",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    }
+
+  }
+}

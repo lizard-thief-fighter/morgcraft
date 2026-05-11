@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "# #",
+    " # "
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "#": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "id": "hexerei:herb_jar",
+    "count": 3
+  }
+}

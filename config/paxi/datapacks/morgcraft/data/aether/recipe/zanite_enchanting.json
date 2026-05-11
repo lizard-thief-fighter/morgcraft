@@ -1,0 +1,13 @@
+{
+  "type": "aether:enchanting",
+  "category": "enchanting_misc",
+  "cookingtime": 80,
+  "experience": 0,
+  "ingredient": {
+    "item": "malum:refined_soulstone"
+  },
+  "result": {
+    "count": 1,
+    "id": "aether:zanite"
+  }
+}

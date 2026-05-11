@@ -1,0 +1,30 @@
+{
+  "type": "immersiveengineering:blueprint",
+  "category": "automatons",
+  "inputs": [
+    {
+      "item": "immersiveengineering:generator"
+    },
+    {
+      "item": "immersiveengineering:radiator"
+    },
+    {
+      "basePredicate": {
+        "item": "malum:refined_brilliance"
+      },
+      "count": 3
+    },
+    {
+      "basePredicate": {
+        "tag": "c:plates/steel"
+      },
+      "count": 2
+    },
+    {
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  ],
+  "result": {
+    "id": "immersiveengineering:robot_wolf"
+  }
+}

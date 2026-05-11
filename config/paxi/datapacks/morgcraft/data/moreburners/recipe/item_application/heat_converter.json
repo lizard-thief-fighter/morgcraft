@@ -1,0 +1,22 @@
+{
+  "type": "create:item_application",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pneumaticcraft"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "immersiveengineering:radiator"
+    },
+    {
+      "item": "moreburners:converter_cover"
+    }
+  ],
+  "results": [
+    {
+      "id": "moreburners:heat_converter"
+    }
+  ]
+}

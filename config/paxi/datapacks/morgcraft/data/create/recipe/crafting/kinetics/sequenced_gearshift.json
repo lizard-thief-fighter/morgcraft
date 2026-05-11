@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "immersiveengineering:component_electronic"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:sequenced_gearshift"
+  }
+}

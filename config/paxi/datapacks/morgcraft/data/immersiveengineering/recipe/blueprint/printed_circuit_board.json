@@ -1,0 +1,18 @@
+{
+  "type": "immersiveengineering:blueprint",
+  "category": "components",
+  "inputs": [
+    {
+      "tag": "c:plates/gold"
+    },
+    {
+      "tag": "c:dusts/redstone"
+    },
+    {
+      "item": "pneumaticcraft:plastic"
+    }
+  ],
+  "result": {
+    "id": "pneumaticcraft:empty_pcb"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        " S ",
+        "FBF"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:echo_shard"
+        },
+        "D": {
+            "item": "minecraft:daylight_detector"
+        },
+        "S": {
+            "item": "minecraft:sculk_catalyst"
+        },
+        "F": {
+            "item": "minecraft:deepslate"
+        },
+        "B": {
+            "item": "minecraft:bucket"
+        }
+    },
+    "result": {
+        "id": "createsolar:sculk_panel",
+        "count": 1
+    }
+}

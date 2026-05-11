@@ -1,0 +1,13 @@
+{
+  "type": "aether:enchanting",
+  "category": "enchanting_misc",
+  "cookingtime": 80,
+  "experience": 0,
+  "ingredient": {
+    "item": "malum:blazing_quartz"
+  },
+  "result": {
+    "count": 1,
+    "id": "aether:ambrosium"
+  }
+}

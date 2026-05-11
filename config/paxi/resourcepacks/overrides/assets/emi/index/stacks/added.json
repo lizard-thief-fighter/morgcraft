@@ -1,0 +1,12 @@
+{
+  "added": [
+    {
+      "stack": "item:quark:seed_pouch",
+      "after": "item:minecraft:lead"
+    },
+    {
+      "stack": "item:spectrum:bottomless_bundle",
+      "after": "item:spectrum:crafting_tablet"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "simulated:redstone_magnet",
+    "immersiveengineering:electromagnet"
+  ]
+}

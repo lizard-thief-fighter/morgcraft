@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "spectrum:polished_basalt"
+    },
+    "C": {
+      "item": "spectrum:polished_calcite"
+    }
+  },
+  "pattern": [
+    "BB ",
+    "CC ",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "spectrum:crafting_tablet"
+  }
+}

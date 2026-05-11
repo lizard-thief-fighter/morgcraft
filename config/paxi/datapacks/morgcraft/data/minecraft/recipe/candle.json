@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "tag": "hexerei:tallow_meltable"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "S",
+    "H"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:candle"
+  }
+}

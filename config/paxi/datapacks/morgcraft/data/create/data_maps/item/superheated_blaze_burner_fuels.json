@@ -1,0 +1,10 @@
+{
+  "values": {
+    "create:blaze_cake": {
+      "burn_time": 3200
+    },
+    "immersivepetroleum:gasoline_bucket": {
+      "burn_time": 6400
+    }
+  }
+}

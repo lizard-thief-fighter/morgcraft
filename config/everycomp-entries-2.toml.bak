@@ -1,0 +1,237 @@
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.stone_type.create]
+			limestone = false
+			asurine = false
+			crimsite = false
+			ochrum = false
+			veridium = false
+			scoria = false
+			scorchia = false
+
+		[types.stone_type.deep_aether]
+			clorite = true
+			raw_clorite = true
+			aseterite = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			limestone = false
+			jasper = false
+			shale = false
+			myalite = false
+			permafrost = true
+
+		[types.stone_type.aether]
+			holystone = true
+
+		[types.stone_type.pneumaticcraft]
+			reinforced_stone = true
+			compressed_stone = true
+
+		[types.stone_type.spectrum]
+			blackslag = false
+			preservation_stone = false
+
+		[types.stone_type.nomansland]
+			silt = true
+
+		[types.mud_type.deep_aether]
+			aether_mud = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.deep_aether]
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.wood_type.hexerei]
+			mahogany = true
+			willow = true
+			witch_hazel = true
+
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
+		[types.wood_type.spectrum]
+			ivory_noxwood = true
+			slate_noxwood = true
+			ebony_noxwood = true
+			chestnut_noxwood = true
+			black = true
+			blue = true
+			brown = true
+			cyan = true
+			gray = true
+			green = true
+			light_blue = true
+			light_gray = true
+			lime = true
+			magenta = true
+			orange = true
+			pink = true
+			purple = true
+			red = true
+			white = true
+			yellow = true
+			weeping_gala = true
+
+		[types.wood_type.malum]
+			runewood = true
+			soulwood = true
+
+		[types.wood_type.nomansland]
+			pine = true
+			maple = true
+			walnut = true
+			willow = false
+
+		[types.cake.dungeonsdelight]
+			monster_cake = true
+
+		[types.cake.nomansland]
+			fruit_cake = true
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
+
+		[types.leaves_type.deep_aether]
+			roseroot = true
+			flowering_roseroot = true
+			blue_roseroot = true
+			flowering_blue_roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.hexerei]
+			mahogany = true
+			willow = true
+			witch_hazel = true
+
+		[types.leaves_type.malum]
+			runewood = true
+			azure_runewood = true
+			soulwood = true
+
+		[types.leaves_type.spectrum]
+			weeping_gala = true
+			nephrite_blossom = true
+			spirit_sallow = true
+			black = true
+			blue = true
+			brown = true
+			cyan = true
+			gray = true
+			green = true
+			light_blue = true
+			light_gray = true
+			lime = true
+			magenta = true
+			orange = true
+			pink = true
+			purple = true
+			red = true
+			white = true
+			yellow = true
+
+		[types.leaves_type.nomansland]
+			yellow_birch = true
+			autumnal_oak = true
+			pale_cherry = true
+			frosted = true
+			pine = true
+			maple = true
+			red_maple = true
+			walnut = true
+			willow = true
+			apple_fruit = true
+			pear_fruit = true
+
+#Disables specific entries
+[entries]
+
+		[entries.stone_type.create]
+			small_brick_wall = true
+			cut_wall = true
+			small_bricks = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			polished_cut_stairs = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			polished_cut_wall = true
+			cut_slab = true
+
+		[entries.stone_type.quark]
+			polished_vertical_slab = false
+			pillar = false
+			vertical_slab = false
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
+
+		[entries.wood_type.quark]
+			vertical_planks = false
+			post = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			trapped_chest = true
+			bookshelf = true
+			hollow_log = false
+			vertical_slab = false
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.beautify]
+			trellis = true
+			blinds = true
+			picture_frame = true
+
+		[entries.wood_type.nomansland]
+			bookshelf = false
+			trimmed_planks = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = false

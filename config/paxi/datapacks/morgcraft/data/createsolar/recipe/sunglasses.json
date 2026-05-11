@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:tinted_glass"
+        },
+        "C": {
+            "tag": "c:wires/aluminum"
+        }
+    },
+    "result": {
+        "id": "createsolar:sunglasses",
+        "count": 1
+    }
+}

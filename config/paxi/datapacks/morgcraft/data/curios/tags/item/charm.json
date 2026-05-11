@@ -1,0 +1,28 @@
+{
+  "values": [
+    "malum:tophat",
+    "malum:token_of_gratitude",
+    "pneumaticcraft:memory_stick",
+    "malum:runic_brooch",
+    "malum:elaborate_brooch",
+    "malum:glass_brooch",
+    "malum:gluttonous_brooch",
+    "ae2:wireless_terminal",
+    "ae2:wireless_crafting_terminal",
+    "ae2:portable_item_cell_1k",
+    "ae2:portable_item_cell_4k",
+    "ae2:portable_item_cell_16k",
+    "ae2:portable_item_cell_64k",
+    "ae2:portable_item_cell_256k",
+    "ae2:portable_fluid_cell_1k",
+    "ae2:portable_fluid_cell_4k",
+    "ae2:portable_fluid_cell_16k",
+    "ae2:portable_fluid_cell_64k",
+    "ae2:portable_fluid_cell_256k",
+    "spectrum:pigment_palette",
+    "spectrum:artists_palette",
+    "spectrum:radiance_pin",
+    "spectrum:gleaming_pin",
+    "spectrum:azuresque_dike_core"
+  ]
+}

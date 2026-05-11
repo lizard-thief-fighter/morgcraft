@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "tag": "c:ingots/iron"
+    },
+    "S": {
+      "tag": "c:leathers"
+    }
+  },
+  "pattern": [
+    "X X",
+    "XSX",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_horse_armor"
+  }
+}

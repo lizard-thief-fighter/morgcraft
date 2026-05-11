@@ -1,0 +1,18 @@
+{
+  "type": "immersiveengineering:blueprint",
+  "category": "components",
+  "inputs": [
+    {
+      "tag": "c:plates/copper"
+    },
+    {
+      "tag": "c:dusts/redstone"
+    },
+    {
+      "item": "pneumaticcraft:plastic"
+    }
+  ],
+  "result": {
+    "id": "immersiveengineering:circuit_board"
+  }
+}

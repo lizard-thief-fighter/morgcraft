@@ -1,0 +1,12 @@
+{
+  "type": "pneumaticcraft:assembly_drill",
+  "input": {
+    "count": 1,
+    "item": "c:storage_blocks/steel"
+  },
+  "program": "drill",
+  "result": {
+    "count": 20,
+    "id": "pneumaticcraft:pressure_chamber_valve"
+  }
+}

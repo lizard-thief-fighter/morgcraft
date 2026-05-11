@@ -1,0 +1,17 @@
+{
+  "type": "hexerei:sage_seed_drops",
+  "conditions": [
+    {
+      "chance": 0.01,
+      "condition": "minecraft:random_chance"
+    },
+    {
+      "block": "minecraft:short_grass",
+      "condition": "minecraft:block_state_property"
+    }
+  ],
+  "item": {
+    "count": 1,
+    "id": "hexerei:sage_seed"
+  }
+}

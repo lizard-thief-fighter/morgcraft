@@ -1,0 +1,27 @@
+{
+  "type": "pneumaticcraft:crafting_shaped_pressurizable",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "immersiveengineering:armor_steel_leggings"
+    },
+    "C": {
+      "item": "pneumaticcraft:air_canister"
+    },
+    "I": {
+      "tag": "c:ingots/steel"
+    },
+    "P": {
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  },
+  "pattern": [
+    "CPC",
+    "CAC",
+    "I I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pneumaticcraft:pneumatic_leggings"
+  }
+}

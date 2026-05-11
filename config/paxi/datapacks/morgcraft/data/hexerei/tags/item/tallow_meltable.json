@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:honeycomb",
+    "hexerei:wax_blend",
+    "immersivepetroleum:paraffin_wax"
+  ]
+}

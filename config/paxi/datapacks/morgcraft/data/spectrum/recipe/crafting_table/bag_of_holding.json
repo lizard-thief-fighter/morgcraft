@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "tag": "c:leathers"
+    },
+    "B": {
+      "tag": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "BEB",
+    "#B#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spectrum:bag_of_holding"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "spectrum:calcites"
+    }
+  ],
+  "processing_time": 250,
+  "results": [
+    {
+      "chance": 0.75,
+      "id": "minecraft:bone_meal"
+    }
+  ]
+}

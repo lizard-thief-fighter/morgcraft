@@ -1,0 +1,21 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "item": "ae2:certus_quartz_dust"
+    }
+  ],
+  "energy": 51200,
+  "input": {
+    "tag": "c:ingots/aluminum"
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "psi:psimetal"
+      },
+      "count": 2
+    }
+  ],
+  "time": 100
+}

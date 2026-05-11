@@ -1,0 +1,10 @@
+{
+  "type": "deep_aether:poison_recipe",
+  "ingredient": {
+    "item": "aether:zanite"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:refined_soulstone"
+  }
+}

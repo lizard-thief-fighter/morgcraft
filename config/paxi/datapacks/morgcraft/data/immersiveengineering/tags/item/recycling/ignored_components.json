@@ -1,0 +1,19 @@
+{
+  "values": [
+    "#c:dusts/silver",
+    "#c:dusts/lead",
+    "#c:dusts/nickel",
+    "#c:dusts/uranium",
+    "#c:plates/silver",
+    "#c:plates/lead",
+    "#c:plates/nickel",
+    "#c:plates/uranium",
+    "#c:plates/brass",
+    "#c:ingots/silver",
+    "#c:ingots/lead",
+    "#c:ingots/nickel",
+    "#c:ingots/uranium",
+    "#c:ingots/zinc",
+    "#c:ingots/brass"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "D": {
+      "item": "minecraft:redstone"
+    },
+    "P": {
+      "item": "psi:psimetal"
+    }
+  },
+  "pattern": [
+    "IPI",
+    "IDI",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "psi:programmer"
+  }
+}

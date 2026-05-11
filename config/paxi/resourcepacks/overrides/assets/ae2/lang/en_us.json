@@ -1,0 +1,14 @@
+{
+  "item.ae2.nether_quartz_axe": "Quartz Axe",
+  "item.ae2.nether_quartz_cutting_knife": "Quartz Cutting Knife",
+  "item.ae2.nether_quartz_hoe": "Quartz Hoe",
+  "item.ae2.nether_quartz_pickaxe": "Quartz Pickaxe",
+  "item.ae2.nether_quartz_shovel": "Quartz Shovel",
+  "item.ae2.nether_quartz_sword": "Quartz Sword",
+  "item.ae2.nether_quartz_wrench": "Quartz Wrench",
+  "item.ae2.printed_calculation_processor": "Calculation Module",
+  "item.ae2.printed_engineering_processor": "Engineering Module",
+  "item.ae2.printed_logic_processor": "Logic Module",
+  "item.ae2.wireless_receiver": "ME Transmitter",
+  "block.ae2.crank": "AE Crank"
+}

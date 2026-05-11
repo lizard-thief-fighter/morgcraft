@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "item": "immersiveengineering:component_iron"
+    },
+    "d": {
+      "item": "pneumaticcraft:plastic"
+    },
+    "s": {
+      "tag": "c:rods/iron"
+    }
+  },
+  "pattern": [
+    "sd",
+    "dc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "immersiveengineering:speedloader"
+  }
+}

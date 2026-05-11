@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 250,
+    "tag": "c:creosote"
+  },
+  "inputs": [
+    {
+      "item": "immersiveengineering:mold_plate"
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "count": 4
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "count": 2
+    },
+    {
+      "id": "immersiveengineering:mold_plate"
+    }
+  ]
+}
