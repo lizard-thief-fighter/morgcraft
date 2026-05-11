@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:ingots/electrum"
+    },
+    "E": {
+      "item": "immersiveengineering:component_electronic"
+    },
+    "K": {
+      "item": "minecraft:dried_kelp"
+    }
+  },
+  "pattern": [
+    "E ",
+    "AA",
+    "KK"
+  ],
+  "result": {
+    "count": 2,
+    "id": "create:brass_tunnel"
+  }
+}

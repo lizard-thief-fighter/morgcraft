@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "WG ",
+    "GW ",
+    "   "
+  ],
+  "result": {
+    "count": 4,
+    "id": "pneumaticcraft:thermal_lagging"
+  }
+}

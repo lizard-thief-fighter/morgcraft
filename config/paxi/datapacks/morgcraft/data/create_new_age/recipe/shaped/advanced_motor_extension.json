@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "immersiveengineering:component_electronic_adv"
+    },
+    "C": {
+      "item": "immersiveengineering:coil_mv"
+    },
+    "I": {
+      "tag": "c:ingots/gold"
+    },
+    "M": {
+      "item": "create_new_age:advanced_motor"
+    }
+  },
+  "pattern": [
+    " II",
+    "ECM",
+    " II"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create_new_age:advanced_motor_extension"
+  }
+}

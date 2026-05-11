@@ -1,0 +1,26 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 1000,
+    "tag": "c:creosote"
+  },
+  "inputs": [
+    {
+      "item": "immersiveengineering:mold_rod"
+    },
+    {
+      "basePredicate": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "count": 4
+    }
+  ],
+  "results": [
+    {
+      "id": "immersiveengineering:graphite_electrode"
+    },
+    {
+      "id": "immersiveengineering:mold_rod"
+    }
+  ]
+}

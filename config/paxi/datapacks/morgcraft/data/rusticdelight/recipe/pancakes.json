@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "M": {
+      "item": "rusticdelight:batter"
+    },
+    "T": {
+      "item": "nomansland:maple_syrup_bottle"
+    },
+    "X": {
+      "item": "minecraft:sugar"
+    },
+    "Y": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    " T ",
+    "XMX",
+    "YBY"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rusticdelight:pancakes"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "loadOrder": [
+    "resourcepacks/Quark VRO.zip",
+    "resourcepacks/Fancy Crops v1.3.zip",
+    "resourcepacks/Simple Lower Grass Sides v1.1.0.zip",
+    "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+    "resourcepacks/quarkconnectedfusion.zip",
+    "resourcepacks/Fine Armoury.zip",
+    "resourcepacks/§bArmor§8-§bReimagined§0_§8[v1.1]§0.zip",
+    "resourcepacks/Dyes-Backport-1.1.1.zip",
+    "resourcepacks/Tender Dragon v1.6.zip",
+    "resourcepacks/Llama's Re-Wrench Cog V1.1.zip",
+    "resourcepacks/cubic-sun-moon-v1.8.5.zip",
+    "resourcepacks/[Neoforge] IE Reimmersed v1.1.zip",
+    "resourcepacks/HumanEraVillagersIllagers[3.91.3].zip",
+    "overrides"
+  ]
+}

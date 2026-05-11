@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:coal_block",
+    "quark:charcoal_block",
+    "immersiveengineering:coke",
+    "immersivepetroleum:petcoke_block",
+    "malum:block_of_arcane_charcoal"
+  ]
+}

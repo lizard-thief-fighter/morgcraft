@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#c#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass_pane"
+        },
+        "c": {
+            "item": "immersiveengineering:light_bulb"
+        }
+    },
+    "result": {
+        "id": "beautify:lamp_light_bulb",
+        "count": 1
+    }
+}

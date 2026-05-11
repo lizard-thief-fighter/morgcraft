@@ -1,0 +1,13 @@
+{
+    "advancement.deep_aether.brass_dungeon.desc": "Defeat the electrum boss\n§b- Deep Aether -",
+    "deep_aether.brass_treasure_chest_locked": "This Treasure Chest must be unlocked with a Electrum Key.",
+    "deep_aether.dungeon.brass_dungeon": "Electrum Dungeon",
+    "menu.deep_aether.brass_treasure_chest": "Electrum Treasure Chest",
+    "item.deep_aether.brass_dungeon_key": "Electrum Key",
+    "lore.block.deep_aether.combiner": "Used to create an assortment of items by combining Golden Amber, Frozen Goldenleaf Berries, and a third item of choice. Can be found in Electrum Dungeons, or made for yourself!",
+    "lore.block.deep_aether.holystone_pillar": "A pillar variant of Holystone. Can be found primarily in Electrum Dungeons, and is very good for decoration.",
+    "lore.block.deep_aether.light_nimbus_pillar": "The light version of Nimbus Pillars, also found in Electrum Dungeons.",
+    "lore.block.deep_aether.light_nimbus_stone": "The light version of Nimbus Stone, also found in Electrum Dungeons.",
+    "lore.block.deep_aether.nimbus_pillar": "One of the unique stones of the Electrum Dungeon. This pillar can be mined and used as a decorative block.",
+    "lore.block.deep_aether.nimbus_stone": "One of the unique stones of the Electrum Dungeon. This stone can be mined and used as a decorative block."
+}

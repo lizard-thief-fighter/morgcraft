@@ -1,0 +1,15 @@
+{
+  "type": "immersiveengineering:alloy",
+  "input0": {
+    "tag": "c:ingots/gold"
+  },
+  "input1": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:ingots/electrum"
+    },
+    "count": 2
+  }
+}

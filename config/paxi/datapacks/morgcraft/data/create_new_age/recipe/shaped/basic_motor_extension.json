@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "immersiveengineering:component_electronic"
+    },
+    "C": {
+      "item": "immersiveengineering:coil_lv"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "M": {
+      "item": "create_new_age:basic_motor"
+    }
+  },
+  "pattern": [
+    " II",
+    "ECM",
+    " II"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create_new_age:basic_motor_extension"
+  }
+}

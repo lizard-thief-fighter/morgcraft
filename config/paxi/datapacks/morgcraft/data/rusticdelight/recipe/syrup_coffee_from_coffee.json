@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rusticdelight:coffee"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "item": "nomansland:maple_syrup_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "rusticdelight:syrup_coffee"
+  }
+}

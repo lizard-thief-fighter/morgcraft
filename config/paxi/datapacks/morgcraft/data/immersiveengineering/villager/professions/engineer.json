@@ -1,0 +1,307 @@
+{
+  "levels": {
+
+    "1": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "immersiveengineering:treated_wood_horizontal",
+            "count": 16
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 1
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:treated_scaffold",
+              "count": 8
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:balloon",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:andesite_casing",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "2": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 4
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:stick_aluminum",
+              "count": 12
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:alu_scaffolding_standard",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:copycat_step",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:copycat_panel",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "3": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 6
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:stick_steel",
+              "count": 12
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:steel_scaffolding_standard",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 3
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:concrete",
+              "count": 16
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "aeronautics:white_envelope",
+            "count": 16
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "4": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 3
+          },
+          "wants": [
+            {
+              "item": "immersiveengineering:insulating_glass",
+              "count": 8
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "immersiveengineering:clinker_brick",
+            "count": 16
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "pneumaticcraft:reinforced_bricks",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:brass_casing",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    },
+
+    "5": {
+      "take": {
+        "type": "constant",
+        "value": 2
+      },
+
+      "trades": [
+
+        {
+          "sells": {
+            "item": "minecraft:emerald",
+            "count": 2
+          },
+          "wants": [
+            {
+              "item": "create:sturdy_sheet",
+              "count": 4
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:railway_casing",
+            "count": 8
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        },
+
+        {
+          "sells": {
+            "item": "create:track",
+            "count": 32
+          },
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "count": 1
+            }
+          ]
+        }
+
+      ]
+    }
+
+  }
+}

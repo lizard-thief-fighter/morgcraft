@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "tag": "hexerei:tallow_meltable"
+    },
+    "f": {
+      "item": "farmersdelight:canvas"
+    }
+  },
+  "pattern": [
+    "fff",
+    "fcf",
+    "fff"
+  ],
+  "result": {
+    "count": 8,
+    "id": "immersiveengineering:ersatz_leather"
+  }
+}

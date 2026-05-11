@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:squeezer",
+  "energy": 19200,
+  "input": {
+    "basePredicate": {
+      "tag": "c:dusts/coal_coke"
+    },
+    "count": 16
+  },
+  "result": {
+    "item": "minecraft:netherite_scrap"
+  }
+}

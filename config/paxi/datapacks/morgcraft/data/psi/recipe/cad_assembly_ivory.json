@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "deep_aether:stratus_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "I  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "psi:cad_assembly_ivory_psimetal"
+  }
+}

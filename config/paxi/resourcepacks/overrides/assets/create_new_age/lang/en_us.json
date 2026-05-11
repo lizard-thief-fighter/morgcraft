@@ -1,0 +1,7 @@
+{
+  "create_new_age.ponder.generation.text_1": "When surrounded by magnets and rotated, Generator Coils will generate electricity.",
+  "create_new_age.ponder.generation.text_2": "Electricity can be collected using Carbon Brushes.",
+  "create_new_age.ponder.generation.text_3": "As the magnetic force of the surrounding magnets increases, the efficiency of generation increases.",
+  "create_new_age.ponder.tag.magnets": "Magnets",
+  "create_new_age.ponder.tag.magnets.description": "Magnets used for generating electricity."
+}

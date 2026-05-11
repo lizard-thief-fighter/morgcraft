@@ -1,0 +1,7 @@
+{
+   "block.pneumaticcraft.large_tank" : "Advanced Pressurized Fluid Tank",
+   "block.pneumaticcraft.medium_tank" : "Reinforced Pressurized Fluid Tank",
+   "block.pneumaticcraft.small_tank" : "Pressurized Fluid Tank",
+   "block.pneumaticcraft.thermal_lagging" : "Insulation",
+   "item.pneumaticcraft.printed_circuit_board" : "Printed Circuit Board"
+}

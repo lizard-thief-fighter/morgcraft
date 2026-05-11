@@ -1,0 +1,16 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "middle": {
+      "item": "create:andesite_alloy"
+    },
+    "top": {
+      "item": "ae2:calculation_processor_press"
+    }
+  },
+  "mode": "inscribe",
+  "result": {
+    "count": 1,
+    "id": "appliedcreate:stress_circuit_board"
+  }
+}

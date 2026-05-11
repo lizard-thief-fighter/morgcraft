@@ -1,0 +1,20 @@
+{
+  "extraLampLight": [
+    {
+      "id": "minecraft:lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "luminance": 10
+    },
+    {
+      "id": "deep_aether:skyjade_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "dungeonsdelight:living_lantern",
+      "luminance": 10
+    }
+  ]
+}

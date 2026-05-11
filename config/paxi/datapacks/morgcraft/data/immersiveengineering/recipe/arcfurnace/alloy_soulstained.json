@@ -1,0 +1,21 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "item": "malum:refined_soulstone"
+    }
+  ],
+  "energy": 51200,
+  "input": {
+    "tag": "c:ingots/iron"
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "malum:soul_stained_steel_ingot"
+      },
+      "count": 1
+    }
+  ],
+  "time": 100
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:plates/electrum"
+    },
+    "P": {
+      "item": "immersiveengineering:component_electronic"
+    },
+    "S": {
+      "item": "create:fluid_pipe"
+    }
+  },
+  "pattern": [
+    "I",
+    "S",
+    "P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:smart_fluid_pipe"
+  }
+}

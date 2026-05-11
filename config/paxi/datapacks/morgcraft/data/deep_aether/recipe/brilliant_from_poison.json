@@ -1,0 +1,10 @@
+{
+  "type": "deep_aether:poison_recipe",
+  "ingredient": {
+    "item": "deep_aether:skyjade"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:refined_brilliance"
+  }
+}

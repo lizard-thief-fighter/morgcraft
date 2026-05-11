@@ -1,0 +1,21 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "energy": 51200,
+  "input": {
+    "tag": "c:nuggets/aluminum"
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "create:andesite_alloy"
+      },
+      "count": 1
+    }
+  ],
+  "time": 100
+}

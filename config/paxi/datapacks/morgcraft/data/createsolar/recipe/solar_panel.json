@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        " C ",
+        " P "
+    ],
+    "key": {
+        "#": {
+            "tag": "c:gems/amethyst"
+        },
+        "D": {
+            "item": "minecraft:daylight_detector"
+        },
+        "C": {
+            "tag": "c:plates/electrum"
+        },
+        "P": {
+            "item": "immersiveengineering:component_electronic"
+        }
+    },
+    "result": {
+        "id": "createsolar:solar_panel",
+        "count": 1
+    }
+}
