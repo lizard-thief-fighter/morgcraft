@@ -2,8 +2,8 @@
   "configVersion": 5,
   "perf": {
     "maxParticleAmount": 1000,
-    "particleDensity": 100,
-    "particleStormDensity": 200,
+    "particleDensity": 50,
+    "particleStormDensity": 100,
     "particleDistance": 16,
     "surfaceRange": 100
   },
@@ -28,6 +28,14 @@
     "syncRegistries": true,
     "crossBiomeBorder": true,
     "useHeightmapTemp": true,
+    "weatherIgnoreBlocks": {
+      "entries": [
+        "#minecraft:fences",
+        "#minecraft:all_signs",
+        "minecraft:barrier"
+      ],
+      "isWhitelist": true
+    },
     "doSpawnHeightLimit": false,
     "spawnHeightLimit": 0
   },

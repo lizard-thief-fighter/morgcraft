@@ -130,7 +130,7 @@
         "x": "NONE",
         "y": "NONE"
       },
-      "sync": "create:schematic"
+      "sync": "minecraft:hotbar"
     },
     "create:toolbox": {
       "displacement": {
