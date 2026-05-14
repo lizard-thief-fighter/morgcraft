@@ -128,7 +128,7 @@
       },
       "direction": {
         "x": "NONE",
-        "y": "NONE"
+        "y": "UP"
       },
       "sync": "minecraft:hotbar"
     },
