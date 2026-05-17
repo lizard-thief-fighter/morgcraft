@@ -1,0 +1,18 @@
+filename = 'Undopia_Zombie_Skins_1.21.11_v.1.1.zip'
+name = 'Undopia Zombie Skins'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = 'a5ec437bbae52b439215cae0d735064726324cd8395eecd91cc7f775d0f5de859c95db659954b69f5b694e0c8243a49c7cd3a82107bbc135f4757851299a7c7d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cv7SrgHN/versions/njLRAvWk/Undopia_Zombie_Skins_1.21.11_v.1.1.zip'
+
+[update.modrinth]
+mod-id = 'Cv7SrgHN'
+version = 'njLRAvWk'

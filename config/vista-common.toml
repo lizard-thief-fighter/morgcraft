@@ -9,4 +9,4 @@
 	chest_drop = true
 	#Where the wave gate is obtainable.
 	#Allowed Values: CRAFTABLE, CREATIVE_ONLY, OFF
-	wave_gate_enabled = "CRAFTABLE"
+	wave_gate_enabled = "OFF"
