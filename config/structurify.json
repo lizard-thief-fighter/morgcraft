@@ -1,6 +1,6 @@
 {
-  "config_version": "2.0.22",
-  "config_datetime": "2026-04-29_11-37-36",
+  "config_version": "2.0.23",
+  "config_datetime": "2026-05-15_14-52-40",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -19,71 +19,43 @@
   "structures": [
     {
       "name": "minecraft:mansion",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none"
+      "is_disabled": true
     },
     {
       "name": "minecraft:swamp_hut",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none"
+      "is_disabled": true
     },
     {
       "name": "hexerei:baba_yaga_hut",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none"
+      "is_disabled": true
     },
     {
       "name": "hexerei:dark_coven",
-      "is_disabled": false,
       "whitelisted_biomes": [
         "minecraft:mangrove_swamp"
-      ],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none"
+      ]
     },
     {
       "name": "hexerei:owl_post_office",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin"
+      "is_disabled": true
     },
     {
       "name": "hexerei:witch_hut",
-      "is_disabled": false,
       "whitelisted_biomes": [
         "minecraft:mangrove_swamp"
-      ],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none"
+      ]
     },
     {
       "name": "nova_structures:mangrove_witch_hut",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box"
+      "is_disabled": true
     },
     {
       "name": "nova_structures:witch_villa",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box"
+      "is_disabled": true
+    },
+    {
+      "name": "supplementaries:road_sign",
+      "is_disabled": true
     }
   ],
   "structure_sets": [
@@ -169,6 +141,19 @@
         "minecraft:ruined_portal_ocean": 1,
         "minecraft:ruined_portal_desert": 1
       }
+    },
+    {
+      "spacing": 31,
+      "separation": 19,
+      "name": "supplementaries:galleons",
+      "is_disabled": false,
+      "salt": 121047156,
+      "frequency": 0.5,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "supplementaries:galleon": 1
+      }
     }
-  ]
+  ],
+  "structure_template_pools": []
 }

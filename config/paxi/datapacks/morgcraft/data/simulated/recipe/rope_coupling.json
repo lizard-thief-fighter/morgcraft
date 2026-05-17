@@ -1,18 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "key": {
-    "N": {
+  "ingredients": [
+    {
       "tag": "c:nuggets/iron"
     },
-    "R": {
-      "item": "farmersdelight:rope"
+    {
+      "tag": "c:nuggets/iron"
+    },
+    {
+      "tag": "c:ropes"
     }
-  },
-  "pattern": [
-    "NRN",
-    "   ",
-    "   "
   ],
   "result": {
     "count": 1,

@@ -3,11 +3,11 @@
   "energy": 192000,
   "input": {
     "amount": 1500,
-    "tag": "neoforge:naphtha"
+    "tag": "c:naphtha"
   },
   "result": {
     "amount": 2000,
-    "id": "pneumaticcraft:lpg"
+    "id": "immersivepetroleum:petroleum_gas"
   },
   "secondary_input": {
     "amount": 500,

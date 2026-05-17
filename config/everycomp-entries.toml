@@ -223,11 +223,6 @@
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
-		[entries.wood_type.beautify]
-			trellis = true
-			blinds = true
-			picture_frame = true
-
 		[entries.wood_type.nomansland]
 			bookshelf = false
 			trimmed_planks = true

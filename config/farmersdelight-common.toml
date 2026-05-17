@@ -11,7 +11,7 @@
 
 [farming]
 	#Which rope should Tomato Vines leave behind when broken?
-	defaultTomatoVineRope = "farmersdelight:rope"
+	defaultTomatoVineRope = "supplementaries:rope"
 	#If enabled, tomato crops will be able to climb any rope tagged as farmersdelight:ropes. If disabled, this will be restricted to this mod's rope only.
 	#Beware: this will convert these blocks into the block specified in defaultTomatoVineRope.
 	enableTomatoVineClimbingTaggedRopes = true

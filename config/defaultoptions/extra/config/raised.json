@@ -594,6 +594,39 @@
       },
       "sync": "spectrum:azure_dike"
     },
+    "supplementaries:cannon_charge": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:cannon_charge"
+    },
+    "supplementaries:selectable_container_item": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:selectable_container_item"
+    },
+    "supplementaries:slimed": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "supplementaries:slimed"
+    },
     "theurgy:item_hud": {
       "displacement": {
         "x": 0,

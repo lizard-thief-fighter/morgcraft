@@ -93,8 +93,14 @@
 			walnut = true
 			willow = false
 
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
 		[types.cake.nomansland]
 			fruit_cake = true
+
+		[types.cake.dungeonsdelight]
+			monster_cake = true
 
 		[types.leaves_type.aether]
 			skyroot = true
