@@ -141,7 +141,7 @@
 	#The radius in blocks the Resonanz Observer will cover. The actual loaded chunks may extend beyond this radius.
 	# Default: 32
 	# Range: > 1
-	resonanz_observer_radius = 32
+	resonanz_observer_radius = 64
 
 		#Configuration for the low voltage capacitor
 		[machines.capacitors.lv]
@@ -218,7 +218,7 @@
 		# Range: > 1
 		consumption_accelerate = 5
 		#If this is set to true (default) the pump will replace fluids it picks up with cobblestone in order to reduce lag caused by flowing fluids.
-		placeCobble = true
+		placeCobble = false
 
 	[machines.teslacoil]
 		#The Flux per tick the Tesla Coil will consume, simply by being active

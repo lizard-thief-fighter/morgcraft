@@ -3,11 +3,11 @@
   "energy": 8000,
   "input": {
     "amount": 1000,
-    "tag": "neoforge:diesel_sulfur"
+    "id": "immersivepetroleum:diesel_sulfur"
   },
   "result": {
     "amount": 1000,
-    "id": "pneumaticcraft:diesel"
+    "id": "immersivepetroleum:diesel"
   },
   "secondary_input": {
     "amount": 500,

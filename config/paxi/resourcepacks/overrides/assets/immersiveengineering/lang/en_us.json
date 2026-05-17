@@ -17,5 +17,9 @@
   "block.immersiveengineering.fluid_sorter": "Iron Fluid Router",
   "block.immersiveengineering.fluid_pump": "Electric Fluid Pump",
   "block.immersiveengineering.tank": "Iron Fluid Tank",
-  "item.immersiveengineering.graphite_electrode": "Arc Furnace Electrode"
+  "item.immersiveengineering.graphite_electrode": "Arc Furnace Electrode",
+  "block.immersiveengineering.metal_barrel": "Metal Keg",
+  "block.immersiveengineering.wooden_barrel": "Wooden Keg",
+  "entity.immersiveengineering.cart_metalbarrel": "Minecart with Metal Keg",
+  "entity.immersiveengineering.cart_woodenbarrel": "Minecart with Wooden Keg"
 }

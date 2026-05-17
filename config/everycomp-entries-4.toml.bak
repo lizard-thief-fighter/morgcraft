@@ -2,13 +2,13 @@
 [types]
 
 		[types.stone_type.create]
-			limestone = true
-			asurine = true
-			crimsite = true
-			ochrum = true
-			veridium = true
-			scoria = true
-			scorchia = true
+			limestone = false
+			asurine = false
+			crimsite = false
+			ochrum = false
+			veridium = false
+			scoria = false
+			scorchia = false
 
 		[types.stone_type.deep_aether]
 			clorite = true
@@ -197,6 +197,11 @@
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
+
+		[entries.wood_type.beautify]
+			trellis = true
+			blinds = true
+			picture_frame = true
 
 		[entries.leaves_type.quark]
 			hedge = true

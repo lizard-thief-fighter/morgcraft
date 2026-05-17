@@ -2,7 +2,6 @@
   "added": [
   ],
   "removed": [
-
     "item:ae2:annihilation_plane{\"minecraft:enchantments\":{levels:{\"minecraft:silk_touch\":1}}}",
     "item:ae2:charged_staff{\"ae2:stored_energy\":8000.0d}",
     "item:ae2:creative_energy_cell",
@@ -154,12 +153,14 @@
     "item:spectrum:shimmering_preservation_bricks",
     "item:spectrum:take_off_belt{\"minecraft:enchantments\":{levels:{\"minecraft:feather_falling\":4,\"minecraft:power\":5}}}",
     "item:spectrum:tinted_preservation_glass",
+    "item:supplementaries:flag_white{\"minecraft:banner_patterns\":[{color:\"green\",pattern:\"minecraft:rhombus\"},{color:\"gray\",pattern:\"minecraft:stripe_left\"},{color:\"gray\",pattern:\"minecraft:triangles_top\"},{color:\"gray\",pattern:\"minecraft:triangles_bottom\"},{color:\"black\",pattern:\"minecraft:straight_cross\"},{color:\"gray\",pattern:\"minecraft:half_vertical_right\"},{color:\"black\",pattern:\"minecraft:border\"}],\"minecraft:hide_additional_tooltip\":{},\"minecraft:item_name\":\u0027{\"color\":\"gold\",\"translate\":\"block.supplementaries.ominous_flag\"}\u0027}",
     "item:vista:picture_tape"
   ],
   "filters": [
     "ae2:color_applicator",
     "appliedcreate:stress",
     "create:potion",
+    "hexerei:potion",
     "immersiveengineering:potion",
     "malum:geas",
     "malum:soulwoven_banner",

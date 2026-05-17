@@ -18,7 +18,7 @@
 		#The CubeDeformation for the inner (leggings) armor model - Vanilla is 0.5
 		# Default: 0.375
 		# Range: 0.0 ~ 2.0
-		"Inner armor deformation" = 0.45
+		"Inner armor deformation" = 0.42
 		#The CubeDeformation for the outer armor model - Vanilla is 1.0
 		# Default: 0.625
 		# Range: 0.0 ~ 2.0

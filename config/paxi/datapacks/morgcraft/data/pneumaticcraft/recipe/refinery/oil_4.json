@@ -7,11 +7,11 @@
   "outputs": [
     {
       "amount": 2,
-      "id": "pneumaticcraft:diesel"
+      "id": "immersivepetroleum:diesel"
     },
     {
       "amount": 3,
-      "id": "pneumaticcraft:kerosene"
+      "id": "immersivepetroleum:kerosene"
     },
     {
       "amount": 3,
@@ -19,7 +19,7 @@
     },
     {
       "amount": 2,
-      "id": "pneumaticcraft:lpg"
+      "id": "immersivepetroleum:petroleum_gas"
     }
   ],
   "temperature": {

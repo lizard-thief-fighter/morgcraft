@@ -112,7 +112,7 @@
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = true
+	"Raw Metal Bricks" = false
 	Rope = false
 	"Shear Vines" = true
 	Shingles = true
@@ -340,7 +340,7 @@
 	"Seed Pouch" = true
 	"Skull Pikes" = true
 	"Slime In A Bucket" = true
-	"Torch Arrow" = true
+	"Torch Arrow" = false
 	Trowel = true
 
 		[tools.abacus.highlight_color]
@@ -509,7 +509,7 @@
 	"Double Door Opening" = true
 	"Dragon Scales" = true
 	"Dyeable Item Frames" = true
-	Emotes = true
+	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = false
 	"Gold Tools Have Fortune" = true
@@ -524,7 +524,7 @@
 	"More Note Block Sounds" = true
 	"More Villagers" = true
 	"No Durability On Cosmetics" = true
-	"Pat The Dogs" = false
+	"Pat The Dogs" = true
 	"Petals On Water" = true
 	"Pig Litters" = true
 	"Poison Potato Usage" = true
@@ -765,7 +765,7 @@
 	"Fairy Rings" = true
 	"Fallen Logs" = true
 	"Glimmering Weald" = true
-	"Monster Box" = true
+	"Monster Box" = false
 	"Nether Obsidian Spikes" = true
 	"New Stone Types" = false
 	"No More Lava Pockets" = true

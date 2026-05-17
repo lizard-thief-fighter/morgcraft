@@ -1,5 +1,6 @@
 {
     "item.minecraft.quartz": "Quartz",
     "item.minecraft.phantom_membrane": "Wing Membrane",
-    "block.minecraft.tripwire_hook": "Hook"
+    "block.minecraft.tripwire_hook": "Hook",
+    "block.minecraft.sea_lantern": "Prismarine Lamp"
 }

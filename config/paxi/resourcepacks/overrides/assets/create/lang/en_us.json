@@ -71,6 +71,6 @@
   "block.create.hand_crank": "Mechanical Crank",
   "create.ponder.hand_crank.header": "Generating Rotational Force using Mechanical Cranks",
   "create.ponder.hand_crank.text_1": "Mechanical Cranks can be used by players to apply rotational force manually",
-  "create.subtitle.cranking": "Mechanical Crank turns"
-
+  "create.subtitle.cranking": "Mechanical Crank turns",
+  "item.create.wrench": "Mechanic's Wrench"
 }

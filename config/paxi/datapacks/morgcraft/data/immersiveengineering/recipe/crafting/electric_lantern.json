@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": {
+      "item": "immersiveengineering:light_bulb"
+    },
+    "i": {
+      "tag": "c:plates/iron"
+    },
+    "n": {
+      "tag": "c:nuggets/iron"
+    },
+    "w": {
+      "tag": "c:wires/copper"
+    }
+  },
+  "pattern": [
+    "nin",
+    "nen",
+    "nwn"
+  ],
+  "result": {
+    "count": 3,
+    "id": "immersiveengineering:electric_lantern"
+  }
+}

@@ -1,3 +1,5 @@
 {
-    "block.quark.crate": "Armory Crate"
+    "block.quark.crate": "Armory Crate",
+    "block.quark.blaze_lantern": "Blaze Lamp",
+    "block.quark.duskbound_lantern": "Duskbound Lamp"
 }

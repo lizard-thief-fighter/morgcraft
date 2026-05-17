@@ -10,11 +10,12 @@
     }
   },
   "pattern": [
-    "X",
-    "Y"
+    " X ",
+    "Y Y",
+    " Y "
   ],
   "result": {
-    "count": 1,
+    "count": 3,
     "id": "malum:spirit_jar"
   }
 }

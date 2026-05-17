@@ -17,10 +17,10 @@
 
 		[types.stone_type.quark]
 			soul_sandstone = true
-			limestone = true
-			jasper = true
-			shale = true
-			myalite = true
+			limestone = false
+			jasper = false
+			shale = false
+			myalite = false
 			permafrost = true
 
 		[types.stone_type.aether]
@@ -28,11 +28,14 @@
 
 		[types.stone_type.pneumaticcraft]
 			reinforced_stone = true
-			compressed_stone = false
+			compressed_stone = true
 
 		[types.stone_type.spectrum]
-			blackslag = true
-			preservation_stone = true
+			blackslag = false
+			preservation_stone = false
+
+		[types.stone_type.nomansland]
+			silt = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true
@@ -87,8 +90,17 @@
 			runewood = true
 			soulwood = true
 
+		[types.wood_type.nomansland]
+			pine = true
+			maple = true
+			walnut = true
+			willow = false
+
 		[types.cake.dungeonsdelight]
 			monster_cake = true
+
+		[types.cake.nomansland]
+			fruit_cake = true
 
 		[types.leaves_type.aether]
 			skyroot = true
@@ -147,33 +159,46 @@
 			white = true
 			yellow = true
 
+		[types.leaves_type.nomansland]
+			yellow_birch = true
+			autumnal_oak = true
+			pale_cherry = true
+			frosted = true
+			pine = true
+			maple = true
+			red_maple = true
+			walnut = true
+			willow = true
+			apple_fruit = true
+			pear_fruit = true
+
 #Disables specific entries
 [entries]
 
 		[entries.stone_type.create]
-			small_brick_wall = false
-			cut_wall = false
-			small_bricks = false
-			cut_brick_slab = false
-			polished_cut_slab = false
-			small_brick_stairs = false
-			cut_bricks = false
-			cut = false
-			polished_cut = false
-			small_brick_slab = false
-			layered = false
-			polished_cut_stairs = false
-			cut_brick_wall = false
-			pillar = false
-			cut_stairs = false
-			cut_brick_stairs = false
-			polished_cut_wall = false
-			cut_slab = false
+			small_brick_wall = true
+			cut_wall = true
+			small_bricks = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			polished_cut_stairs = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			polished_cut_wall = true
+			cut_slab = true
 
 		[entries.stone_type.quark]
-			polished_vertical_slab = true
-			pillar = true
-			vertical_slab = true
+			polished_vertical_slab = false
+			pillar = false
+			vertical_slab = false
 
 		[entries.mud_type.quark]
 			carved_bricks = true
@@ -181,15 +206,15 @@
 			brick_lattice = true
 
 		[entries.wood_type.quark]
-			vertical_planks = true
+			vertical_planks = false
 			post = true
 			chest = true
 			stripped_post = true
 			ladder = true
 			trapped_chest = true
 			bookshelf = true
-			hollow_log = true
-			vertical_slab = true
+			hollow_log = false
+			vertical_slab = false
 
 		[entries.wood_type.create]
 			window_pane = true
@@ -203,6 +228,10 @@
 			blinds = true
 			picture_frame = true
 
+		[entries.wood_type.nomansland]
+			bookshelf = false
+			trimmed_planks = true
+
 		[entries.leaves_type.quark]
 			hedge = true
-			leaf_carpet = true
+			leaf_carpet = false
