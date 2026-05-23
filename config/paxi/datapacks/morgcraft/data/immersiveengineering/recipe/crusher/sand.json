@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "tag": "c:sands"
+  },
+  "result": {
+    "count": 1,
+    "id": "nomansland:silt"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "tag": "quark:stone_type/soul_sandstone"
+  },
+  "result": {
+    "id": "minecraft:soul_sand"
+  }
+}

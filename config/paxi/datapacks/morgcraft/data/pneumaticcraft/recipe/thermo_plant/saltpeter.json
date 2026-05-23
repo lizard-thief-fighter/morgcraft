@@ -1,0 +1,21 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "inputs": {
+    "fluid": {
+      "amount": 250,
+      "id": "minecraft:water"
+    },
+    "item": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "outputs": {
+    "item_output": {
+      "count": 4,
+      "id": "immersiveengineering:dust_saltpeter"
+    }
+  },
+  "temperature": {
+    "min": 100
+  }
+}

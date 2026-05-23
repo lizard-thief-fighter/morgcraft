@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "tag": "spectrum:stone_type/blackslag"
+  },
+  "result": {
+    "id": "minecraft:gravel"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "spectrum:topaz_block"
+  },
+  "result": {
+    "count": 12,
+    "id": "spectrum:topaz_powder"
+  }
+}

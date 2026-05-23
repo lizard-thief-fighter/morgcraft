@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "create:stone_type/crimsite"
+  },
+  "result": {
+    "id": "minecraft:red_sand",
+    "count": 1
+  },
+  "secondaries": [
+    {
+      "chance": 0.4,
+      "output": {
+        "tag": "c:dusts/iron"
+      }
+    }
+  ]
+}

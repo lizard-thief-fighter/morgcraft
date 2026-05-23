@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "tag": "minecraft:stone_type/stone"
+  },
+  "result": {
+    "id": "minecraft:gravel"
+  }
+}

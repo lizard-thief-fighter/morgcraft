@@ -36,13 +36,13 @@
     {
       "chance": 0.5,
       "output": {
-        "id": "minecraft:cobblestone"
+        "id": "create:asurine"
       }
     },
     {
       "chance": 0.3,
       "output": {
-        "id": "minecraft:cobbled_deepslate"
+        "id": "create:crimsite"
       }
     }
   ],

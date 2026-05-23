@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 800,
+  "input": {
+    "item": "aether:aether_dirt"
+  },
+  "result": {
+    "id": "aether:quicksoil"
+  }
+}

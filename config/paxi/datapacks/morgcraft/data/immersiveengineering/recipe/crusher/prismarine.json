@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "tag": "minecraft:stone_type:prismarine"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:prismarine_shard"
+  }
+}

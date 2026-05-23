@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "tag": "create:stone_type/limestone"
+  },
+  "result": {
+    "id": "minecraft:sand"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 800,
+  "input": {
+    "item": "ae2:fluix_crystal"
+  },
+  "result": {
+    "count": 1,
+    "id": "ae2:fluix_dust"
+  }
+}

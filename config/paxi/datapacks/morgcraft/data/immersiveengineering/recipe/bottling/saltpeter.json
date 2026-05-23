@@ -1,0 +1,15 @@
+{
+  "type": "immersiveengineering:bottling_machine",
+  "fluid": {
+    "amount": 250,
+    "tag": "minecraft:water"
+  },
+  "input": {
+    "tag": "c:clay"
+  },
+  "results": [
+    {
+      "id": "immersiveengineering:dust_saltpeter"
+    }
+  ]
+}

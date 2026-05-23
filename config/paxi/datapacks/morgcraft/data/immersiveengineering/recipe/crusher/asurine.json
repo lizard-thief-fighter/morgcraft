@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "create:stone_type/asurine"
+  },
+  "result": {
+    "id": "minecraft:gravel",
+    "count": 1
+  },
+  "secondaries": [
+    {
+      "chance": 0.6,
+      "output": {
+        "tag": "c:dusts/aluminum"
+      }
+    }
+  ]
+}

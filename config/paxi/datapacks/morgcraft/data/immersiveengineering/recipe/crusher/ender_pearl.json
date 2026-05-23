@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 800,
+  "input": {
+    "item": "minecraft:ender_pearl"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "ae2:ender_dust"
+    },
+    "count": 1
+  }
+}

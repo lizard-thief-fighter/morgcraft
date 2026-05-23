@@ -44,6 +44,15 @@
 		#Enables rendering of debug information for televisions
 		render_debug = false
 
-	[television.wip]
-		#enable wip features
-		enable_wip = false
+	[television.wave_gate]
+		#Enable FFmpeg use. This is needed if you want to use the Wave Gate
+		ffmpeg_enabled = true
+		#Scale factor for web images resolution
+		# Default: 8
+		# Range: 1 ~ 32
+		resolution_scale = 8
+		#Scaling mode for web images
+		#Allowed Values: STRETCH, FIT_WIDTH, FIT_HEIGHT, CONTAIN, COVER
+		scaling_mode = "COVER"
+		#Enable bilinear sampling for rescaled images. Enable for a less pixelated look
+		bilinear_sampling = false

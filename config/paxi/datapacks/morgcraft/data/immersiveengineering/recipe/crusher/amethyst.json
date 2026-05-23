@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 800,
+  "input": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "count": 3,
+    "id": "spectrum:amethyst_powder"
+  }
+}

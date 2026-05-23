@@ -301,7 +301,7 @@
 		enabled = false
 
 	[building.barnacles]
-		enabled = true
+		enabled = false
 
 	[building.blackboard]
 		enabled = true

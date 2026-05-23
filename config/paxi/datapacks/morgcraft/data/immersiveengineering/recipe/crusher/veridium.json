@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "create:stone_type/veridium"
+  },
+  "result": {
+    "id": "minecraft:gravel",
+    "count": 1
+  },
+  "secondaries": [
+    {
+      "chance": 0.8,
+      "count": 2,
+      "output": {
+        "tag": "c:dusts/copper"
+      }
+    }
+  ]
+}

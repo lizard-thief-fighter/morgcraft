@@ -42,7 +42,7 @@
     {
       "chance": 0.4,
       "output": {
-        "id": "minecraft:cobbled_deepslate"
+        "id": "create:limestone"
       }
     }
   ],
