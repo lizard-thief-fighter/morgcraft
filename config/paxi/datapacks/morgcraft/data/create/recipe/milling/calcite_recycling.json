@@ -2,7 +2,7 @@
   "type": "create:milling",
   "ingredients": [
     {
-      "tag": "spectrum:calcites"
+      "tag": "minecraft:stone_type/calcite"
     }
   ],
   "processing_time": 250,

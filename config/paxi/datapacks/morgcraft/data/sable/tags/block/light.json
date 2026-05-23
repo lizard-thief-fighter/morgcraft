@@ -4,11 +4,10 @@
     "#immersiveengineering:treated_wood",
     "#immersiveengineering:scaffoldings/aluminum",
     "#immersiveengineering:scaffoldings/steel",
-    "#quark:vertical_slabs",
+    "#minecraft:walls",
     "immersiveengineering:reinforced_window",
     "vista:viewfinder"
   ],
   "remove": [
-    "#quark:wooden_vertical_slabs"
   ]
 }

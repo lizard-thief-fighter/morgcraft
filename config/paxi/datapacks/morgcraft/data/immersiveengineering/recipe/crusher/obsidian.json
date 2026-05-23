@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "create:powdered_obsidian",
+    "count": 2
+  },
+  "secondaries": [
+    {
+      "chance": 0.75,
+      "output": {
+        "item": "minecraft:obsidian"
+      }
+    }
+  ]
+}

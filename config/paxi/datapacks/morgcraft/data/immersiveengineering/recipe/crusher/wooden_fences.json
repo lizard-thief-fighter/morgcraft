@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "tag": "minecraft:wooden_fences"
+  },
+  "result": {
+    "id": "immersiveengineering:dust_wood",
+    "count": 2
+  }
+}

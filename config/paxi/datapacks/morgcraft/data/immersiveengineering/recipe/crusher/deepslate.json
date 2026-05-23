@@ -1,0 +1,10 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 2000,
+  "input": {
+    "tag": "minecraft:stone_type/deepslate"
+  },
+  "result": {
+    "id": "minecraft:gravel"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 800,
+  "input": {
+    "tag": "ae2:all_quartz"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "ae2:certus_quartz_dust"
+    },
+    "count": 1
+  }
+}

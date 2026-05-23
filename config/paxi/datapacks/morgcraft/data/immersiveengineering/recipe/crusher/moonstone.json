@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 800,
+  "input": {
+    "item": "spectrum:moonstone_shard"
+  },
+  "result": {
+    "count": 3,
+    "id": "spectrum:moonstone_powder"
+  }
+}

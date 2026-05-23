@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "create:stone_type/ochrum"
+  },
+  "result": {
+    "id": "minecraft:sand",
+    "count": 1
+  },
+  "secondaries": [
+    {
+      "chance": 0.4,
+      "output": {
+        "tag": "c:dusts/gold"
+      }
+    }
+  ]
+}
