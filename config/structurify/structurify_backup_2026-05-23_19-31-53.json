@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.25",
-  "config_datetime": "2026-05-23_19-59-23",
+  "config_datetime": "2026-05-23_19-31-34",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -62,12 +62,6 @@
     {
       "name": "supplementaries:road_sign",
       "is_disabled": true
-    },
-    {
-      "name": "terralith:desert_outpost",
-      "override_global_flatness_check": false,
-      "enable_flatness_check": true,
-      "flatness_check_allow_non_solid_blocks": false
     }
   ],
   "structure_sets": [
@@ -183,18 +177,6 @@
       }
     },
     {
-      "spacing": 10,
-      "separation": 4,
-      "name": "nomansland:small_dungeons",
-      "is_disabled": true,
-      "salt": 9418,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "nomansland:small_dungeon": 1
-      }
-    },
-    {
       "spacing": 34,
       "separation": 8,
       "name": "nova_structures:villages_birch",
@@ -248,7 +230,7 @@
       "name": "terralith:mage",
       "is_disabled": false,
       "salt": 2358902,
-      "frequency": 0.8,
+      "frequency": 0.5,
       "override_global_spacing_and_separation_modifier": false,
       "structure_weights": {
         "terralith:mage_tower_autumn": 1,

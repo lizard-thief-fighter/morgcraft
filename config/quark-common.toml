@@ -953,7 +953,7 @@
 
 			[world.blossom_trees.blue.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[world.blossom_trees.blue.biome_config.tags]
@@ -966,7 +966,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.lavender]
-			Rarity = 100
+			Rarity = 200
 
 			[world.blossom_trees.lavender.dimensions]
 				"Is Blacklist" = false
@@ -987,7 +987,7 @@
 
 			[world.blossom_trees.orange.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[world.blossom_trees.orange.biome_config.tags]
@@ -1000,7 +1000,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.yellow]
-			Rarity = 200
+			Rarity = 400
 
 			[world.blossom_trees.yellow.dimensions]
 				"Is Blacklist" = false
@@ -1017,7 +1017,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.red]
-			Rarity = 30
+			Rarity = 100
 
 			[world.blossom_trees.red.dimensions]
 				"Is Blacklist" = false
