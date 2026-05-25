@@ -1,5 +1,5 @@
 [general]
-	"Enable 'q' Button" = false
+	"Enable 'q' Button" = true
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -12,7 +12,7 @@
 	#Set to true if you need to find the class name for a screen that's causing problems
 	"Print Screen Classnames" = false
 	#A list of screens that can accept quark's buttons. Use "Print Screen Classnames" to find the names of any others you'd want to add.
-	"Allowed Screens" = ["de.dafuqs.spectrum.inventories.CompactingChestScreen"]
+	"Allowed Screens" = []
 	#If set to true, the 'Allowed Screens' option will work as a Blacklist rather than a Whitelist. WARNING: Use at your own risk as some mods may not support this.
 	"Use Screen List Blacklist" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
@@ -28,7 +28,7 @@
 		"Player X" = 0
 		"Player Y" = 0
 		"Top X" = 0
-		"Top Y" = -12
+		"Top Y" = 0
 		"Middle X" = 0
 		"Middle Y" = 0
 
@@ -107,12 +107,12 @@
 	"Japanese Palette" = true
 	"Leaf Carpet" = false
 	Midori = true
-	"More Brick Types" = false
+	"More Brick Types" = true
 	"More Mud Blocks" = true
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = false
+	"Raw Metal Bricks" = true
 	Rope = false
 	"Shear Vines" = true
 	Shingles = true
@@ -124,10 +124,10 @@
 	"Variant Chests" = true
 	"Variant Furnaces" = true
 	"Variant Ladders" = true
-	"Vertical Planks" = false
-	"Vertical Slabs" = false
+	"Vertical Planks" = true
+	"Vertical Slabs" = true
 	"Wooden Posts" = true
-	"More Stone Variants" = false
+	"More Stone Variants" = true
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -195,7 +195,7 @@
 		#This also includes Red Sandstone Bricks and Soul Sandstone Bricks
 		"Enable Sandstone Bricks" = true
 		#This also includes Mossy Cobblestone Bricks
-		"Enable Cobblestone Bricks" = false
+		"Enable Cobblestone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
 		"Enable Blackstone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
@@ -232,7 +232,6 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - carved_wood
 		# - woodster
 		# - woodworks
 		#This is done to prevent content overlap.
@@ -245,7 +244,6 @@
 		#Chests to put in structures. It's preferred to use worldgen tags for this. The format per entry is "structure=chest", where "structure" is a structure ID, and "chest" is a block ID, which must correspond to a standard chest block.
 		"Structure Chests" = []
 		#This feature disables itself if any of the following mods are loaded:
-		# - carved_wood
 		# - woodworks
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
@@ -254,7 +252,6 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - carved_wood
 		# - woodster
 		# - woodworks
 		#This is done to prevent content overlap.
@@ -274,10 +271,10 @@
 	"Automatic Tool Restock" = true
 	"Easy Transferring" = true
 	"Expanded Item Interactions" = true
-	"Hotbar Changer" = true
+	"Hotbar Changer" = false
 	"Inventory Sorting" = true
 	"Item Sharing" = false
-	"Quick Armor Swapping" = false
+	"Quick Armor Swapping" = true
 
 	[management.automatic_tool_restock]
 		#Enchantments deemed important enough to have special priority when finding a replacement
@@ -340,7 +337,7 @@
 	"Seed Pouch" = true
 	"Skull Pikes" = true
 	"Slime In A Bucket" = true
-	"Torch Arrow" = false
+	"Torch Arrow" = true
 	Trowel = true
 
 		[tools.abacus.highlight_color]
@@ -479,7 +476,7 @@
 			"Can Act As Axe" = true
 
 	[tools.seed_pouch]
-		"Max Items" = 1024
+		"Max Items" = 640
 		"Show All Variants In Creative" = true
 		"Shift Range" = 3
 		#Allow putting bone meal into the Seed Pouch (or anything else in the tag 'quark:seed_pouch_fertilizers')
@@ -509,7 +506,7 @@
 	"Double Door Opening" = true
 	"Dragon Scales" = true
 	"Dyeable Item Frames" = true
-	Emotes = false
+	Emotes = true
 	"Enhanced Ladders" = true
 	"Glass Shard" = false
 	"Gold Tools Have Fortune" = true
@@ -524,7 +521,7 @@
 	"More Note Block Sounds" = true
 	"More Villagers" = true
 	"No Durability On Cosmetics" = true
-	"Pat The Dogs" = true
+	"Pat The Dogs" = false
 	"Petals On Water" = true
 	"Pig Litters" = true
 	"Poison Potato Usage" = true
@@ -610,7 +607,7 @@
 		"Display Baked Enchantments In Tooltip" = true
 		"Italic Tooltip" = true
 		#Enchantments other than Gold's Fortune/Looting to bake into items. Format is "item+enchant@level", such as "minecraft:stick+minecraft:sharpness@10".
-		"Item Enchantments" = ["farmersdelight:golden_knife+minecraft:fortune@2"]
+		"Item Enchantments" = []
 
 	[tweaks.grab_chickens]
 		"Needs No Helmet" = true
@@ -765,7 +762,7 @@
 	"Fairy Rings" = true
 	"Fallen Logs" = true
 	"Glimmering Weald" = true
-	"Monster Box" = false
+	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
 	"New Stone Types" = false
 	"No More Lava Pockets" = true
@@ -946,14 +943,14 @@
 					"Is Blacklist" = false
 
 	[world.blossom_trees]
-		"Drop Leaf Particles" = false
+		"Drop Leaf Particles" = true
 
 		[world.blossom_trees.blue]
 			Rarity = 200
 
 			[world.blossom_trees.blue.dimensions]
 				"Is Blacklist" = false
-				Dimensions = []
+				Dimensions = ["minecraft:overworld"]
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[world.blossom_trees.blue.biome_config.tags]
@@ -966,7 +963,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.lavender]
-			Rarity = 200
+			Rarity = 100
 
 			[world.blossom_trees.lavender.dimensions]
 				"Is Blacklist" = false
@@ -987,7 +984,7 @@
 
 			[world.blossom_trees.orange.dimensions]
 				"Is Blacklist" = false
-				Dimensions = []
+				Dimensions = ["minecraft:overworld"]
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[world.blossom_trees.orange.biome_config.tags]
@@ -1000,7 +997,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.yellow]
-			Rarity = 400
+			Rarity = 200
 
 			[world.blossom_trees.yellow.dimensions]
 				"Is Blacklist" = false
@@ -1017,7 +1014,7 @@
 					"Is Blacklist" = true
 
 		[world.blossom_trees.red]
-			Rarity = 100
+			Rarity = 30
 
 			[world.blossom_trees.red.dimensions]
 				"Is Blacklist" = false
@@ -1529,7 +1526,7 @@
 	"Auto Walk Keybind" = false
 	"Back Button Keybind" = true
 	"Buckets Show Inhabitants" = true
-	Camera = false
+	Camera = true
 	"Chest Searching" = true
 	"Elytra Indicator" = false
 	"Greener Grass" = true
@@ -1565,8 +1562,8 @@
 	[client.greener_grass]
 		"Affect Leaves" = true
 		"Affect Water" = false
-		"Block List" = ["minecraft:large_fern", "minecraft:tall_grass", "minecraft:grass_block", "minecraft:fern", "minecraft:short_grass", "minecraft:potted_fern", "minecraft:sugar_cane", "environmental:giant_tall_grass", "grassslabs:grass_carpet", "grassslabs:grass_slab", "grassslabs:grass_stairs", "valhelsia_structures:grass_block", "nomansland:grass_sprouts", "nomansland:frosted_grass", "nomansland:dried_grass", "nomansland:oat_grass", "nomansland:fiddlehead"]
-		"Leaves List" = ["minecraft:spruce_leaves", "minecraft:birch_leaves", "minecraft:oak_leaves", "minecraft:jungle_leaves", "minecraft:acacia_leaves", "minecraft:dark_oak_leaves", "atmospheric:rosewood_leaves", "atmospheric:morado_leaves", "atmospheric:yucca_leaves", "autumnity:maple_leaves", "environmental:willow_leaves", "environmental:hanging_willow_leaves", "minecraft:vine", "nomansland:walnut_leaves", "nomansland:maple_leaves", "nomansland:pine_leaves", "hexerei:willow_leaves", "hexerei:mahogany_leaves"]
+		"Block List" = ["minecraft:large_fern", "minecraft:tall_grass", "minecraft:grass_block", "minecraft:fern", "minecraft:short_grass", "minecraft:potted_fern", "minecraft:sugar_cane", "environmental:giant_tall_grass", "grassslabs:grass_carpet", "grassslabs:grass_slab", "grassslabs:grass_stairs", "valhelsia_structures:grass_block"]
+		"Leaves List" = ["minecraft:spruce_leaves", "minecraft:birch_leaves", "minecraft:oak_leaves", "minecraft:jungle_leaves", "minecraft:acacia_leaves", "minecraft:dark_oak_leaves", "atmospheric:rosewood_leaves", "atmospheric:morado_leaves", "atmospheric:yucca_leaves", "autumnity:maple_leaves", "environmental:willow_leaves", "environmental:hanging_willow_leaves", "minecraft:vine"]
 
 		[client.greener_grass.color_matrix]
 			R = [0.89, 0.0, 0.0]
@@ -1621,11 +1618,11 @@
 		"Bind Armor Stands With Player Heads" = true
 
 	[client.variant_animal_textures]
-		"Enable Cow" = false
-		"Enable Pig" = false
-		"Enable Chicken" = false
+		"Enable Cow" = true
+		"Enable Pig" = true
+		"Enable Chicken" = true
 		"Enable Allay" = true
-		"Enable Shiny Rabbit" = false
+		"Enable Shiny Rabbit" = true
 		"Enable Shiny Llama" = true
 		"Enable Shiny Dolphin" = true
 		"Enable Shiny Slime" = true
@@ -1648,8 +1645,6 @@
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
 	"Variant Selector" = false
 	"Villager Rerolling Rework" = true
-	#Big Stone Clusters for Granite, Diorite, and Andesite, like Quark pre-1.18
-	"Vanilla Stone Clusters" = false
 
 	[experimental.adjustable_chat]
 		"Horizontal Shift" = 0
@@ -1705,7 +1700,7 @@
 		"Village Spawn Nerf" = false
 		#Distance at which villages will spawn as normal. Effect scales linearly from world spawn
 		"Village Spawn Nerf Distance" = 7000
-		"Non Griefing Entities" = ["minecraft:creeper"]
+		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
 		"Elytra Allowed Dimensions" = ["minecraft:the_end"]
 
 	[experimental.overlay_shader]
@@ -1776,101 +1771,11 @@
 		#If enabled, villagers will be able to reroll any trade that has been used AT ALL since the last restock.
 		"Reroll Even If Not Out Of Stock" = false
 
-	#Big Stone Clusters for Granite, Diorite, and Andesite, like Quark pre-1.18
-	[experimental.vanilla_stone_clusters]
-
-		[experimental.vanilla_stone_clusters.granite]
-			Enabled = true
-			#Allowed values: [0,)
-			Rarity = 4
-			"Min Y Level" = 20
-			"Max Y Level" = 80
-			#Allowed values: [0,)
-			"Horizontal Size" = 14
-			#Allowed values: [0,)
-			"Vertical Size" = 14
-			#Allowed values: [0,)
-			"Horizontal Variation" = 9
-			#Allowed values: [0,)
-			"Vertical Variation" = 9
-
-			[experimental.vanilla_stone_clusters.granite.dimensions]
-				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
-
-				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
-				[experimental.vanilla_stone_clusters.granite.biomes.tags]
-					"Biome Tags" = ["minecraft:is_mountain"]
-					"Is Blacklist" = false
-
-				#Biome names this should spawn in. Must match both this and 'types' to spawn.
-				[experimental.vanilla_stone_clusters.granite.biomes.biomes]
-					Biomes = []
-					"Is Blacklist" = true
-
-		[experimental.vanilla_stone_clusters.diorite]
-			Enabled = true
-			#Allowed values: [0,)
-			Rarity = 4
-			"Min Y Level" = 20
-			"Max Y Level" = 80
-			#Allowed values: [0,)
-			"Horizontal Size" = 14
-			#Allowed values: [0,)
-			"Vertical Size" = 14
-			#Allowed values: [0,)
-			"Horizontal Variation" = 9
-			#Allowed values: [0,)
-			"Vertical Variation" = 9
-
-			[experimental.vanilla_stone_clusters.diorite.dimensions]
-				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
-
-				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
-				[experimental.vanilla_stone_clusters.diorite.biomes.tags]
-					"Biome Tags" = ["c:is_savanna", "c:is_jungle", "c:is_mushroom"]
-					"Is Blacklist" = false
-
-				#Biome names this should spawn in. Must match both this and 'types' to spawn.
-				[experimental.vanilla_stone_clusters.diorite.biomes.biomes]
-					Biomes = []
-					"Is Blacklist" = true
-
-		[experimental.vanilla_stone_clusters.andesite]
-			Enabled = true
-			#Allowed values: [0,)
-			Rarity = 4
-			"Min Y Level" = 20
-			"Max Y Level" = 80
-			#Allowed values: [0,)
-			"Horizontal Size" = 14
-			#Allowed values: [0,)
-			"Vertical Size" = 14
-			#Allowed values: [0,)
-			"Horizontal Variation" = 9
-			#Allowed values: [0,)
-			"Vertical Variation" = 9
-
-			[experimental.vanilla_stone_clusters.andesite.dimensions]
-				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
-
-				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
-				[experimental.vanilla_stone_clusters.andesite.biomes.tags]
-					"Biome Tags" = ["minecraft:is_forest"]
-					"Is Blacklist" = false
-
-				#Biome names this should spawn in. Must match both this and 'types' to spawn.
-				[experimental.vanilla_stone_clusters.andesite.biomes.biomes]
-					Biomes = []
-					"Is Blacklist" = true
-
 [oddities]
 	Backpack = true
 	Crate = true
 	Magnets = false
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	Pipes = false
 	"Tiny Potato" = false
 	"Totem Of Holding" = true
